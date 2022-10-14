@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MIO Source Redirect
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      1.0
 // @description  Redirect to raw music files on mio.to
 // @author       Gadila Shashank
 // @match        https://mio.to/*
